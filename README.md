@@ -1,7 +1,7 @@
 # Prediction of the next sunspots peak using Linear regression 
 
 ## The polar precursor method:
-The polar precursor method is widely considered to be the most robust physically motivated method to predict the amplitude of an upcoming solar cycle. It uses indicators of the magnetic field concentrated near the poles around the sunspot minimum. [here](https://iopscience.iop.org/article/10.3847/1538-4357/abdbb4/meta#:~:text=The%20polar%20precursor%20method%20is,poles%20around%20the%20sunspot%20minimum.)
+The [polar precursor method](https://iopscience.iop.org/article/10.3847/1538-4357/abdbb4/meta#:~:text=The%20polar%20precursor%20method%20is,poles%20around%20the%20sunspot%20minimum.) is widely considered to be the most robust physically motivated method to predict the amplitude of an upcoming solar cycle. It uses indicators of the magnetic field concentrated near the poles around the sunspot minimum. 
 
 
 
