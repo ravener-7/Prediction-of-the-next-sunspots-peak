@@ -11,5 +11,5 @@ The [polar precursor method](https://iopscience.iop.org/article/10.3847/1538-435
 The method also looks at the magnetic fields at the Sun's poles. These fields provide valuable information about the Sun’s magnetic cycle, which is linked to the activity in sunspots. When the polar magnetic fields reverse, it can signal the approach of a solar maximum. Research has shown that the intensity of the solar maximum is often correlated with the strength of the magnetic fields at the Sun's poles. Stronger polar magnetic fields typically correlate with a stronger solar maximum, whereas weaker fields suggest a milder peak in solar activity.
 
 
-**Data source:** https://www.sidc.be/SILSO/datafiles
+**Used datasets from Strasbourg Observatory:** https://www.sidc.be/SILSO/datafiles
 
